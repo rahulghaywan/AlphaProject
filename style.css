@@ -1,0 +1,327 @@
+/* Body CSS starts here */
+body{
+    background-image: url(./images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 690px;
+    background-color: #f5f5f5;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+/* Body CSS ends here */
+
+/* Header section CSS starts here */
+#headersection{
+    width: 100%;
+    color: white;
+}
+#optiondiv li i{
+    padding-right: 5px;
+}
+/* LOGODIV */
+#logodiv{
+    width: 30%;
+    display: inline-block;
+}
+#logodiv h1{
+    font-size: 17px;
+    margin-left: 15px;
+}
+#logodiv h1 span{
+    font-weight: 100;
+}
+/* OPTIONDIV */
+#optiondiv{
+    width: 69%;
+    display: inline-block;
+}
+#optiondiv ul{
+    display: inline-block;
+    /* float: right; */
+    position: absolute;
+    right: 13px;
+    top: 0px;
+}
+#optiondiv ul li{
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 17px;
+}
+#sign{
+    border: 1px solid white;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+/* Header Section CSS ends here */
+
+
+/* Body Section CSS Starts Here */
+#bodysection{
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+}
+#bodysection h1{
+    font-size: 56px;
+}
+#bodysection p{
+    font-size: 22px;
+    margin-top: -17px;
+}
+#bodysection ul{
+    display: inline-block;
+}
+#bodysection ul li{
+    display: inline-block;
+    font-size: 17px;
+    border: 2px solid white;
+    border-radius: 4px;
+    padding: 12px 65px;
+    margin-right: 11px;
+    font-weight: 600;
+}
+#xyz{
+    background-color: white;
+    color: #797979;
+    font-weight: 900;
+    padding: 12px 77px!important;
+}
+#opy{
+    opacity: .7;
+}
+/* Body Section CSS ends Here */
+
+/* Description Section CSS starts Here */
+#descripsection{
+    color: #797979;
+    background-color: white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 6px;
+    margin-top: 125px;
+    height: 700px;
+    box-shadow: 1px 19px 7px #797979
+}
+#descripsection h1{
+    font-size: 37px;
+    padding-top: 70px;
+}
+#descripsection p{
+    font-size: 21px;
+    /* font-weight: 900; */
+    border-top: 1px solid #797979;
+    border-color: #797979;
+    display: inline-block;
+    padding-top: 37px;
+}
+#descripsection img{
+    width: 100%;
+    padding-top: 45px;
+    border-radius: 6px;
+}
+/* Description Section CSS ends Here */
+
+/* Logo Section CSS starts Here */
+#logosection{
+    background-color: white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 6px;
+    margin-top: 50px;
+    box-shadow: 1px 2px 7px #797979
+    /* padding-top: 45px; */
+}
+#logosection div{
+    display: inline-block;
+    width: 49%;
+    /* padding: 55px 4px; */
+}
+#logosection div h1{
+    font-size: 32px;
+    color: #797979;
+    font-weight: 100;
+}
+#logosection p{
+    font-size: 18px;
+    color: #797979;
+}
+
+#div1 i{
+    font-size: 46px;
+    color: white;
+    border-radius: 100%;
+    background-color: #e89980;
+    padding: 25px 37px;
+}
+#div2 i{
+    font-size: 40px;
+    color: white;
+    border-radius: 100%;
+    background-color: #7fcdb8;
+    padding: 30px 27px;
+}
+#div3 i{
+    font-size: 46px;
+    color: white;
+    border-radius: 100%;
+    background-color: #90b0ba;
+    padding: 25px 25px;
+}
+#div4 i{
+    font-size: 60px;
+    color: white;
+    border-radius: 100%;
+    background-color: #e5cb95;
+    padding: 20px 30px;
+}
+#div1{
+    /* border-bottom: 1px solid #797979; */
+    padding: 44px 0px 44px 0px
+}
+#div2{
+    border-left: 1px solid #797979;
+    padding: -1px 0px 0px 0px
+}
+#div3{
+    border-right: 1px solid #797979;
+    padding: 0px 6px 0px 0px
+}
+#div4{
+    /* border-top: 1px solid #797979; */
+    padding: 44px 0px 44px 0px
+}
+/* Logo Section CSS ends Here */
+
+/* Image Section CSS starts Here */
+#imagesection{
+    width: 96.5%;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 35px;
+    border-radius: 6px;
+}
+#imagesection div{
+    display: inline-block;
+    margin: 17px;
+    box-shadow: 1px 2px 8px #797979
+}
+#imagesection h1{
+    margin-top: 52px;
+    font-size: 30px;
+    font-weight: 100;
+}
+#imagesection p{
+    font-size: 17px;
+}
+#imagesection img{
+    width: 100%;
+    border-radius: 6px;
+}
+#div5{
+    width: 35%;
+    background-color: white;
+}
+#div6{
+    width: 35%;
+}
+#imagesection ul{
+    display: inline-block;
+}
+#imagesection ul li{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+}
+#imagesection ul li{
+    border: 2px solid #797979;
+    border-radius: 4px;
+    padding: 12px 35px;
+    opacity: .4;
+}
+#abc{
+    background-color: white;
+    margin: -1px 0px 30px -40px;
+    font-weight: 800!important;
+}
+#efg{
+    background-color: white;
+    margin: -1px 0px 30px -40px;
+    font-weight: 800!important;
+}
+#div5{
+    border-radius: 6px;
+}
+#div6{
+    background-color: white;
+    border-radius: 6px;
+}
+/* Image Section CSS ends Here */
+
+/* Footer Section CSS ends Here */
+#footersection{
+    display: inline-block;
+    text-align: center;
+    /* margin: 0 auto; */
+    padding-top: 60px;
+    width: 100%;
+}
+#div7{
+    display: block;
+    width: 100%;
+    background-color: #e89980;
+    color: white;
+}
+#div7 h1{
+    font-size: 36px;
+    font-weight: 100;
+    padding-top: 75px;
+}
+#footersection ul{
+    padding-top: 12px;
+    padding-bottom: 75px;
+    margin-left: -46px;
+}
+#footersection ul li{
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 4px;
+    margin-left: 12px;
+}
+#footersection p{
+    margin-top: -11px;
+    margin-bottom: 25px;
+}
+#ben{
+    padding: 12px 95px;
+}
+#ten{
+    background-color: white;
+    color: #797979;
+    font-weight: 900;
+    padding: 12px 35px!important;
+}
+#div8 h4{
+    display: inline-block;
+    margin: 10px;
+    margin-top: 22px;
+    margin-bottom: 93px;
+}
+#div8{
+    color: #797979;
+    opacity: .4;
+    margin-top: 35px;
+}
+#div8 i{
+    font-size: 30px;
+    margin: 12px;
+    margin-top: 35px;
+}
+#hug{
+    border-right: 1px solid #797979;
+    padding-right: 20px;
+}
+#nohug{
+    border-right: 1px solid #797979;
+    padding-right: 20px;
+}
+/* Footer Section CSS ends Here
